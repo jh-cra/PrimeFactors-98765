@@ -15,6 +15,5 @@ TEST(PrimeFactors, TestName) {
 	EXPECT_EQ(expected, primeFactor.of(1));
 }
 
-// 한글 테스트
 
 
