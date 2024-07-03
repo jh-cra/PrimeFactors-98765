@@ -10,7 +10,9 @@ public:
 };
 
 TEST(PrimeFactors, TestName) {
-	EXPECT_EQ(1, 1);
+	PrimeFactor primeFactor;
+	vector<int> expected = {};
+	EXPECT_EQ(expected, primeFactor.of(1));
 }
 
 // 한글 테스트
