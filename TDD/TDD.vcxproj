@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="account.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="primeFactor.cpp" />
   </ItemGroup>
